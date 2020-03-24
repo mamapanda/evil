@@ -34,7 +34,7 @@
 (require 'flyspell)
 (require 'cl-lib)
 (require 'reveal)
-(require 'xref)
+;; (require 'xref)
 
 (declare-function imenu--in-alist "imenu")
 
